@@ -1,2 +1,0 @@
-# seattle-airbnb
-# seattle-airbnb
