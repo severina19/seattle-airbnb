@@ -19,17 +19,20 @@ This project is developed in Python 3.7, and the libraries needed include:
 
 ### File Description
 The file and directory structure of the repository is the following:
-
+```bash
 ├── 312_markers_on_folium_map1.html
 ├── airbnb_seatlle.ipynb
 ├── data
 │   └── seattle
 │       └── listings.csv
 └── README.md
+```
 
-**listings.csv**: seattle airbnb listing data from kaggle
-**airbnb_seatlle.ipynb**: jupyter notebook with code of the data analysis
-**312_markers_on_folium_map1.html**: result with marker highlighting cheapest/most expensive zip code in the seattle map
+- listings.csv: seattle airbnb listing data from kaggle
+
+- airbnb_seatlle.ipynb: jupyter notebook with code of the data analysis
+
+- 312_markers_on_folium_map1.html:  result with marker highlighting cheapest/most expensive zip code in the seattle map
 
 ### Result analysis
 The result analysis is published on Medium: [Exploring the Seattle AirBnb Datset: Key factors infuencing the price and customer satisfaction](https://medium.com/@anjaseverin19/d5da52747f32).
